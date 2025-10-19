@@ -24,4 +24,4 @@
 how to use ?
 
 - font-[manrope]
-- font-[inter] text-lg">
+- font-[inter]
