@@ -21,7 +21,7 @@
 - HEADING - MANROPE (https://fonts.google.com/specimen/Manrope)
 - BODY - INTER (https://fonts.google.com/specimen/Inter)
 
-/\* how to use ?
+how to use ?
 
-- <h1 class="font-[manrope] text-4xl font-bold">Hello World</h1>
-- <p class="font-[inter] text-lg">This is Inter font.</p> */
+- font-[manrope]
+- font-[inter] text-lg">
