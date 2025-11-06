@@ -19,11 +19,7 @@ const HeroSection = () => {
           </button>
         </div>
         <div className=" h-fit lg:w-1/2 flex justify-center items-center lg:h-full">
-          <img
-            className="w-7/8"
-            src="src/assets/Placeholder Image.png"
-            alt=""
-          />
+          <img className="w-7/8" src="Placeholder Image.png" alt="" />
         </div>
       </div>
     </div>
